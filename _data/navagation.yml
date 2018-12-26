@@ -1,3 +1,2 @@
- main:
-     - title: about us 
-       url: https://mollder.github.io/ssafy-daejeon-4-3/ 
+``` main:
+title: about us url: https://mollder.github.io/ssafy-daejeon-4-3/ ```
